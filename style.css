@@ -1,0 +1,62 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.body{
+    margin: 0 auto;
+    padding: 0 auto;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    /* position: absolute; */
+}
+.main_content{
+    /* float: right; */
+}
+.logo_h_section{
+    /* display: inline-block; */
+    /* margin-left: 10px; */
+}
+.logo_img{
+    float: left;
+}
+.twitter_side_img{
+    width: 750px;
+    height: 580px;
+}
+.twitter_logo_img{
+    width: 50px;
+    height: 50px;
+}
+.secend_logo{
+    margin-top: 40px;
+    margin-left: 30px;
+    float: right;
+    margin-right: 70px;
+}
+.h1_heading{
+    font-size: 60px;
+    font-weight:900;
+
+}
+.h1_heading_secend{
+    font-size: 30px;
+}
+.login_section{
+    float: right;
+    display: inline-block;
+    /* margin-top: 10px; */
+    margin-right: 350px;
+}
+.link_Google{
+    /* margin-top: 10px;
+    margin-left: 10px; */
+}
+.link_Apple{
+    /* margin-top: 10px;
+    margin-left: 10px; */
+}
+.link_ph_or_email{
+    /* margin-top: 10px;
+    margin-left: 10px; */
+}
